@@ -1,4 +1,4 @@
-package com.lancelot.web;
+package com.lancelot.controller;
 
 import com.lancelot.model.User;
 import org.springframework.cache.annotation.CacheEvict;
